@@ -1,0 +1,6 @@
+rich
+pyyaml
+python-dotenv
+requests
+loguru
+jinja2
