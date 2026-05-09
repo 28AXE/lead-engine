@@ -1,10 +1,16 @@
 # Lead Engine
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Stars](https://img.shields.io/github/stars/28AXE/lead-engine?style=flat)](https://github.com/28AXE/lead-engine)
+[![Forks](https://img.shields.io/github/forks/28AXE/lead-engine?style=flat)](https://github.com/28AXE/lead-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](https://img.shields.io/badge/status-active-green.svg)](https://github.com/nima/lead-engine)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-**Automated prospect sourcing, scoring, and outreach for high-value B2B verticals.**
+[![GitHub Topics](https://img.shields.io/badge/topics-lead--generation%20%7C%20b2b%20%7C%20sales%20%7C%20automation-blue)](https://github.com/28AXE/lead-engine)
+
+<p align="center">
+  <strong>🎯 Automated B2B lead generation with multi-signal scoring</strong><br>
+  Find, enrich, and score qualified prospects from 9+ data sources
+</p>
 
 Lead Engine identifies qualified leads by combining multiple data sources (APIs, scrapers, public databases), enriches them with contact info, scores them using a configurable 40-point algorithm, and notifies your team instantly when HOT prospects are detected.
 
